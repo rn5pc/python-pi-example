@@ -1,6 +1,11 @@
 #!/usr/bin/python
 import web
 
+def main(msg)
+	print(msg)
+
+main("Hello people")
+
 urls = (
 	'/', 'myClass'
 	'/about', 'secondClass
